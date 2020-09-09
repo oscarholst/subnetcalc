@@ -1,7 +1,7 @@
 #
 # A very simple subnet calculator in Python, written by
 # Oscar Holst (https://github.com/oscarholst)
-# Heavily inspired by Jack-Benny Persson's subnect calculator in C.
+# Heavily inspired by Jack-Benny Persson's subnet calculator in C.
 # Released under GNU GPLv2
 #
 
